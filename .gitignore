@@ -6,3 +6,4 @@ data/
 .env.*
 *.sqlite
 *.sqlite-*
+docs/
