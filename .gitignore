@@ -1,0 +1,8 @@
+node_modules/
+.bun/
+.tmp/
+data/
+.env
+.env.*
+*.sqlite
+*.sqlite-*
